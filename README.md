@@ -3,7 +3,7 @@
 
 [![Top Langs](https://github-readme-stats-clone-xln.vercel.app/api/top-langs/?username=kAIto47802&layout=compact&theme=merko&count_private=true&langs_count=10)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kAIto47802)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Harlok's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=kAIto47802)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 <h3 align="left">Languages and Tools:</h3>
