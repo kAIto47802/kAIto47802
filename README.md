@@ -1,1 +1,1 @@
-![title](./title.svg)
+![title](./titleLight.svg)
