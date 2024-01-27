@@ -1,1 +1,1 @@
-!["kAIto47802's GitHub Profile"](./index.html)
+!["kAIto47802's GitHub Profile"](github-profile-eosin.vercel.app)
