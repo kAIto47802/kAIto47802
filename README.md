@@ -1,1 +1,1 @@
-<img src="./index.html", alt="kAIto47802's GitHub Profile">
+!["kAIto47802's GitHub Profile"](./index.html)
