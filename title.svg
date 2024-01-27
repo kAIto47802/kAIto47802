@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100">
+  <style type="text/css">
+    @import url('https://fonts.googleapis.com/css2?family=Quattrocento');
+    @import url('https://fonts.googleapis.com/css2?family=WindSong');
+    .heading1 {
+      position: relative;
+      padding-top: 50px;
+      padding-left: 30px;
+      padding-bottom: 0;
+      font-size: 34px;
+      /* font-family: 'Zen Kurenaido', sans-serif; */
+      font-family: 'Quattrocento', serif;
+      border: none;
+    }
+    .heading1 span {
+      position: relative;
+      z-index: 2;
+    }
+    .heading1::before {
+      content: attr(data-en);
+      position: absolute;
+      transform: rotate(-5deg);
+      top: -12px;
+      left: -40px;
+      color: rgba(224,66,114,0.6);
+      font-size: 80px;
+      font-weight: 400;
+      font-family: 'WindSong', cursive;
+      font-style: italic;
+    }
+    
+    .heading1::after {
+      position: absolute;
+      left: 0px;
+      width: 100%;
+      height: 4px;
+      content: '';
+      background-image: -webkit-gradient(linear, right top, left top, from(#2af598), to(#009efd));
+      background-image: -webkit-linear-gradient(right, #2af598 0%, #009efd 100%);
+      background-image: linear-gradient(to left, #2af598 0%, #009efd 100%);
+      /* background-image: -webkit-gradient(linear, right top, left top, from(#30cfd0), to(#330867));
+      background-image: -webkit-linear-gradient(right, #30cfd0 0%, #330867 100%);
+      background-image: linear-gradient(to left, #30cfd0 0%, #330867 100%); */
+      bottom: 0;
+    }
+  </style>
+  <foreignObject width="100%" height="100%">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <h1 class="heading1" data-en="Profile">kAIto47802</h1>
+    </div>
+  </foreignObject>
+</svg>
