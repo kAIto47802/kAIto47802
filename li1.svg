@@ -5,7 +5,7 @@
         animation-name:fadeLeftAnime1;
         animation-duration:0.5s;
         animation-fill-mode:forwards;
-        animation-delay: 1.8s;
+        animation-delay: 1.6s;
         opacity:0;
       }
       
