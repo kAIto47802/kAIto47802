@@ -11,4 +11,14 @@
 </div>
 </p>
 
+<p>
 <div align="left"><a href="https://github.com/kAIto47802"><img width="54px" height="10rem" src="./blank.svg" /></a><a href="https://github.com/kAIto47802"><img src="https://github-readme-stats-clone-xln.vercel.app/api/?username=kAIto47802&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=buefy&border_color=1fbcff&bg_color=88beff20&text_color=417e87" alt="kAIto47802's GitHub stats" class="badge"></a></div>
+</p>
+
+<p>
+<div>
+<a href="https://github.com/kAIto47802"><img width="100%" height="39px" src="./skill.svg" /></a>
+<a href="https://github.com/kAIto47802"><img src="./skillContent.svg" /></a>
+</div>
+</p>
+

@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <rect x="60" y="10" width="12" height="11" stroke="#87ceeb" fill="#ffffff00" stroke-width="1.7"/>
+  <text x="79" y="16.8" font-size="1rem" font-family="NoteSans, sans-serif" fill="#858585" text-anchor="start" alignment-baseline="middle">Deal with:</text>
+  <polygon points="100,35 110,40 100,45" fill="#f7955c" />
+  <text x="119" y="42" font-size="1rem" font-family="NoteSans, sans-serif" fill="#858585" text-anchor="start" alignment-baseline="middle">Algorithms</text>
+  <polygon points="100,58 110,63 100,68" fill="#f7955c" />
+  <text x="119" y="65" font-size="1rem" font-family="NoteSans, sans-serif" fill="#858585" text-anchor="start" alignment-baseline="middle">Machine Learning, Deep Learning, Reinforcement Learning</text>
+  <polygon points="100,81 110,86 100,91" fill="#f7955c" />
+  <text x="119" y="88" font-size="1rem" font-family="NoteSans, sans-serif" fill="#858585" text-anchor="start" alignment-baseline="middle">Front-end</text>
+  <polygon points="350,81 360,86 350,91" fill="#f7955c" />
+  <text x="369" y="88" font-size="1rem" font-family="NoteSans, sans-serif" fill="#858585" text-anchor="start" alignment-baseline="middle">Back-end</text>
+  <polygon points="100,104 110,109 100,114" fill="#f7955c" />
+  <text x="119" y="111" font-size="1rem" font-family="NoteSans, sans-serif" fill="#858585" text-anchor="start" alignment-baseline="middle">iOS App Development</text>
+  <rect x="60" y="134" width="12" height="11" stroke="#87ceeb" fill="#ffffff00" stroke-width="1.7"/>
+  <text x="79" y="140.8" font-size="1rem" font-family="NoteSans, sans-serif" fill="#858585" text-anchor="start" alignment-baseline="middle">Languages, Libraries and Frameworks:</text>
+  <polyline points="100,162 106,168 100,174" stroke="#00BCD4" fill="#ffffff00" stroke-width="3" />
+  <text x="119" y="169" font-size="1rem" font-family="NoteSans, sans-serif" fill="#858585" text-anchor="start" alignment-baseline="middle">Advanced:</text>
+  <img src="./langs/python_modified.svg" alt="Python"/>
+</svg>
