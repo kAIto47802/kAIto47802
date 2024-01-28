@@ -20,7 +20,7 @@
     <a href="https://github.com/kAIto47802"><img width="100%" height="39px" src="./skills.svg" /></a>
     <a href="https://github.com/kAIto47802"><img width="100%" height="610px" src="./skillContent.svg" /></a>
     <div align="left">
-      <a height="0" href="https://github.com/kAIto47802"><img width="54px" height="10rem" src="./blank.svg" /></a><a href="https://github.com/kAIto47802"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kAIto47802&layout=compact&theme=nightowl&border_color=fc9475&bg_color=ffc5a0a9" /></a>
+      <a height="0" href="https://github.com/kAIto47802"><img width="54px" height="10rem" src="./blank.svg" /></a><a height="0" href="https://github.com/kAIto47802"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kAIto47802&layout=compact&theme=nightowl&border_color=fc9475&bg_color=ffc5a0a9" /></a>
     </div>
     <div align="left"><font size="0.8">&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Since 2023/06/01)</font></div>
     <div align="left">
