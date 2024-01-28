@@ -22,7 +22,7 @@
     <div align="left">
       <a href="https://github.com/kAIto47802"><img width="54px" height="10rem" src="./blank.svg" /></a><a href="https://github.com/kAIto47802"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kAIto47802&layout=compact&theme=nightowl&border_color=fc9475&bg_color=ffc5a0a9" /></a>
     </div>
-    <div align="left"><font size="0.8">                               (Since 2023/06/01)</font></div>
+    <div align="left"><font size="0.8">&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Since 2023/06/01)</font></div>
     <div align="left">
       <a href="https://github.com/kAIto47802"><img width="54px" height="10rem" src="./blank.svg" /></a><a href="https://github.com/kAIto47802"><img ailgn="left" src="https://github-readme-stats-clone-xln.vercel.app/api/top-langs/?username=kAIto47802&layout=compact&count_private=true&langs_count=10&theme=algolia&title_color=8e98dd&text_color=6ac6f4&border_color=f38cf7&bg_color=c5e0fff7" /></a>
     </div>
