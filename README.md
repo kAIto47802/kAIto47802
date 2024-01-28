@@ -1,4 +1,4 @@
-<img width="100%" height="30px" src="./title.svg" />
+<img width="100%" height="95px" src="./title.svg" />
 
 <div align="left"><a href="https://github.com/kAIto47802"><img width="70px" height="10rem" src="./li.svg" /></a><span>Third-year undergraduate student at the University of Tokyo</span></div>
 
