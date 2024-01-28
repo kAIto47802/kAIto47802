@@ -5,7 +5,7 @@
         animation-name:fadeInAnime0;
         animation-duration: 0.3s;
         animation-fill-mode:forwards;
-        animation-delay: 2.1s;
+        animation-delay: 1.9s;
         animation-timing-function: ease-out;
         opacity:0;
       }
@@ -22,7 +22,7 @@
         animation-name:fadeInAnime3;
         animation-duration: 1.2s;
         animation-fill-mode:forwards;
-        animation-delay: 2.1s;
+        animation-delay: 1.9s;
         animation-timing-function: ease-out;
         opacity:0;
       }
