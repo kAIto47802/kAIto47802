@@ -1,1 +1,1 @@
-<img width="100%" src="./title.svg" />
+<img width="light-dark(100%, 50%)" src="./title.svg" />
