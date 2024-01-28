@@ -1,1 +1,1 @@
-![title](./title.svg)
+<img href="./title.svg">
