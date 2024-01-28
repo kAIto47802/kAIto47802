@@ -1,1 +1,1 @@
-<img href="./title.svg">
+<img src="./title.svg" />
