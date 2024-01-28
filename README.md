@@ -7,7 +7,7 @@
 <div>
 <a href="https://github.com/kAIto47802"><img width="100%" height="39px" src="./overview.svg" /></a>
 <div align="left"><a href="https://github.com/kAIto47802"><img width="70px" height="10rem" src="./li.svg" /></a><span>Third-year undergraduate student at the University of Tokyo</span></div>
-<div align="left"><a href="https://github.com/kAIto47802"><img width="70px" height="610rem" src="./li.svg" /></a><span>Internship experience at 6 companies</span></div>
+<div align="left"><a href="https://github.com/kAIto47802"><img width="70px" height="10rem" src="./li.svg" /></a><span>Internship experience at 6 companies</span></div>
 </div>
 </p>
 
@@ -18,7 +18,7 @@
 <p>
 <div>
 <a href="https://github.com/kAIto47802"><img width="100%" height="39px" src="./skills.svg" /></a>
-<a href="https://github.com/kAIto47802"><img width="100%" height="100px" src="./skillContent.svg" /></a>
+<a href="https://github.com/kAIto47802"><img width="100%" height="610px" src="./skillContent.svg" /></a>
 </div>
 </p>
 
