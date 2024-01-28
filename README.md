@@ -3,7 +3,7 @@
 <div align="right">Last update: 2024/01/28</div>
 </div>
 
-<a href="https://github.com/kAIto47802"><img width="100%" src="./overview.svg" /></a>
+<a href="https://github.com/kAIto47802"><img width="100%" height="50px" src="./overview.svg" /></a>
 
 <p>
 <div align="left"><a href="https://github.com/kAIto47802"><img width="70px" height="10rem" src="./li.svg" /></a><span>Third-year undergraduate student at the University of Tokyo</span></div>
