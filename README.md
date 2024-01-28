@@ -1,4 +1,1 @@
-<img style="width: light-dark(100%, 50%)" src="./title.svg" />
-
-
-<div style="font-size: 20px;">aaaaaa</div>
+<img width="100%" src="./title.svg" />
