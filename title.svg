@@ -9,7 +9,7 @@
         animation-name:fadeInAnime;
         animation-duration:1.5s;
         animation-fill-mode:forwards;
-        animation-delay: 0.3s;
+        animation-delay: 0.5s;
         opacity:0;
       }
       @keyframes fadeInAnime {
@@ -19,9 +19,9 @@
 
       .fadeIn2 {
         animation-name: fadeInAnime2;
-        animation-duration: 2s;
+        animation-duration: 0.7s;
         animation-fill-mode: forwards;
-        animation-delay: 0.5s;
+        animation-delay: 0.9s;
         opacity:0;
       }
       @keyframes fadeInAnime2 {
@@ -31,9 +31,9 @@
 
       .fadeInFromLeft {
         animation-name:fadeInAnime3;
-        animation-duration:0.8s;
+        animation-duration:0.4s;
         animation-fill-mode:forwards;
-        animation-delay: 0s;
+        animation-delay: 0.2s;
         animation-timing-function: ease-in-out;
         opacity:0;
       }
