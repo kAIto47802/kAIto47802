@@ -1,26 +1,25 @@
 <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <style>
-      .fadeLeft{
-        animation-name:fadeLeftAnime;
+      .fadeLeft2 {
+        animation-name:fadeLeftAnime2;
         animation-duration:0.5s;
         animation-fill-mode:forwards;
         animation-delay: 2.5s;
         opacity:0;
       }
       
-      @keyframes fadeLeftAnime{
+      @keyframes fadeLeftAnime2 {
         from {
           opacity: 0;
-        transform: translateX(-100px);
+          transform: translateX(-100px);
         }
-      
         to {
           opacity: 1;
-        transform: translateX(0);
+          transform: translateX(0);
         }
       }
     </style>
   </defs>
-  <polygon class="fadeLeft" points="55,0 65,5 55,10" fill="#f7955c" />
+  <polygon class="fadeLeft2" points="55,0 65,5 55,10" fill="#f7955c" />
 </svg>
