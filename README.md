@@ -17,8 +17,8 @@
 
 <p>
 <div>
-<a href="https://github.com/kAIto47802"><img width="100%" height="39px" src="./skill.svg" /></a>
-<a href="https://github.com/kAIto47802"><img src="./skillContent.svg" /></a>
+<a href="https://github.com/kAIto47802"><img width="100%" height="39px" src="./skills.svg" /></a>
+<a href="https://github.com/kAIto47802"><img width="100%" height="100px" src="./skillContent.svg" /></a>
 </div>
 </p>
 
