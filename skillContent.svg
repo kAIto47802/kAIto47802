@@ -6,9 +6,9 @@
       }
     </style>
   </defs>
-  <rect x="30" y="00" rx="4" ry="4" class="box" height="599" stroke="#87ceeb" fill="#d5fff878" stroke-width="1.7"/>
+  <rect x="30" y="1" rx="4" ry="4" class="box" height="599" stroke="#87ceeb" fill="#d5fff878" stroke-width="1.7"/>
 
-  <g transform="translate(-4, 15)">
+  <g transform="translate(-4, 16)">
     <rect x="60" y="10" width="12" height="11" stroke="#87ceeb" fill="#ffffff00" stroke-width="1.7"/>
     <text x="79" y="16.8" font-size="1rem" font-family="NoteSans, sans-serif" fill="#858585" text-anchor="start" alignment-baseline="middle">Deal with:</text>
     <polygon points="100,35 110,40 100,45" fill="#f7955c" />
