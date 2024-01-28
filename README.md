@@ -19,6 +19,8 @@
 <div>
 <a href="https://github.com/kAIto47802"><img width="100%" height="39px" src="./skills.svg" /></a>
 <a href="https://github.com/kAIto47802"><img width="100%" height="610px" src="./skillContent.svg" /></a>
+<div><div align="left"><a href="https://github.com/kAIto47802"><img align="right"src="https://github-readme-stats.vercel.app/api/wakatime?username=kAIto47802&layout=compact&theme=nightowl&border_color=fc9475&bg_color=ffc5a0a9" /></a><a href="https://github.com/kAIto47802"><img width="100%" height="610px" src="./skillContent.svg" /></a>
+<span align="right"><font size="0.8">(Since 2023/06/01)</font></span></div><a href="https://github.com/kAIto47802"><img ailgn="left" src="https://github-readme-stats-clone-xln.vercel.app/api/top-langs/?username=kAIto47802&layout=compact&count_private=true&langs_count=10&theme=algolia&title_color=8e98dd&text_color=6ac6f4&border_color=f38cf7&bg_color=c5e0fff7" /></a></div>
 </div>
 </p>
 
