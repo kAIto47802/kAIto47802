@@ -1,1 +1,1 @@
-<img src="./title.svg" />
+<img width="100%" src="./title.svg" />
