@@ -1,4 +1,5 @@
 <a href="https://github.com/kAIto47802"><img width="100%" height="95px" src="./title.svg" /></a>
+<div align="right">Last update: 2024/01/28</div>
 
 <p>
 <div align="left"><a href="https://github.com/kAIto47802"><img width="70px" height="10rem" src="./li.svg" /></a><span>Third-year undergraduate student at the University of Tokyo</span></div>
