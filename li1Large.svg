@@ -57,5 +57,5 @@
   <text x="69" y="12" font-family="Noto Sans JP, Arial, sans-serif" font-size="15" class="textShow">
     Third-year undergraduate student at the University of Tokyo 
   </text>
-  <rect x="67" y="0" width="410" height="16" fill="url(#gradientBox1)" class="textShowBox" />
+  <rect x="67" y="0" width="430" height="16" fill="url(#gradientBox1)" class="textShowBox" />
 </svg>
