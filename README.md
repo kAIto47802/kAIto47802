@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  <div align="left"><a href="https://github.com/kAIto47802"><img width="54px" height="10rem" src="./blank.svg" /></a><a href="https://github.com/kAIto47802"><img src="https://github-readme-stats-clone-xln.vercel.app/api/?username=kAIto47802&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=buefy&border_color=2d20ff&bg_color=88beff20&text_color=417e87" alt="kAIto47802's GitHub stats" loading="lazy" width="80vw" height="60vw"></a></div>
+  <div align="left"><a href="https://github.com/kAIto47802"><img width="54px" height="10rem" src="./blank.svg" /></a><a href="https://github.com/kAIto47802"><img src="https://github-readme-stats-clone-xln.vercel.app/api/?username=kAIto47802&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=buefy&border_color=2d20ff&bg_color=88beff20&text_color=417e87" alt="kAIto47802's GitHub stats" loading="lazy" width="80%" height="100%"></a></div>
 </p>
 
 <p>
