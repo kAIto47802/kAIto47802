@@ -6,7 +6,7 @@
 <p>
   <div>
     <a href="https://github.com/kAIto47802"><img width="100%" height="39px" src="./overview.svg" /></a>
-    <div align="left"><a href="https://github.com/kAIto47802"><picture><source media="(max-width:750px)" srcset="./li1Small.svg 12w" sizes="2vw"><img width="70px" height="10px" src="./li1Large.svg" /></picture></a><span>Third-year undergraduate student at the University of Tokyo</span></div>
+    <div align="left"><a href="https://github.com/kAIto47802"><!-- <picture><source media="(max-width:750px)" srcset="./li1Small.svg 12w" sizes="2vw"><img width="70px" height="10px" src="./li1Large.svg" /></picture> --><img srcset="./li1Small.svg 12w, ./li1Large.svg 67w" sizes="(max-width: 650px) 13px, 70px" src="./l1Large.svg" alt="・" /></a><span>Third-year undergraduate student at the University of Tokyo</span></div>
     <div align="left"><a href="https://github.com/kAIto47802"><img width="70px" height="10rem" src="./li2.svg" /></a><span>Internship experience at 6 companies</span></div>
   </div>
 </p>
