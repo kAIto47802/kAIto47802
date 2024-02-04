@@ -33,7 +33,7 @@
       }
 
       .textShowBox {
-        transform: translate(-105%, 0);
+        transform: translate(-120%, 0);
         animation-name: maskBoxAnime1;
         animation-duration: 1.2s;
         animation-fill-mode: forwards;
@@ -41,7 +41,7 @@
         animation-timing-function: cubic-bezier(0.8, 0, 0.170, 1);
       }
       @keyframes maskBoxAnime1 {
-        0% { transform: translate(-105%, 0) }
+        0% { transform: translate(-120%, 0) }
         40%, 60% { transform: translate(0, 0) }
         100% { transform: translate(100%, 0) }
       }
