@@ -3,7 +3,7 @@
     <style>
       .fadeLeft1 {
         animation-name:fadeLeftAnime1;
-        animation-duration:0.5s;
+        animation-duration:0.1s;
         animation-fill-mode:forwards;
         animation-delay: 1.6s;
         opacity:0;
@@ -12,7 +12,7 @@
       @keyframes fadeLeftAnime1 {
         from {
           opacity: 0;
-          transform: translateX(-100px);
+          transform: translateX(-10px);
         }
         to {
           opacity: 1;
