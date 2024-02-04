@@ -6,8 +6,8 @@
 <p>
   <div>
     <a href="https://github.com/kAIto47802"><img width="100%" height="39px" src="./overview.svg" /></a>
-    <div align="left"><a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./li1Small.svg 12w" sizes="12px"><img width="min(70px, 5vw)" height="10px" src="./li1Large.svg" /></picture></a><a href="https://github.com/kAIto47802"><img width="100%" height="14px" src="./text1.svg" /></a></div>
-    <div align="left"><a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./li1Small.svg 12w" sizes="12px"><img width="min(70px, 5vw)" height="10px" src="./li1Large.svg" /></picture></a><a href="https://github.com/kAIto47802"><img width="100%" height="14px" src="./text2.svg" /></a></div>
+    <div align="left"><a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./li1Small.svg 12w" sizes="12px"><img width="min(450px, 100vw)" height="10px" src="./li1Large.svg" /></picture></a></div>
+    <div align="left"><a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./li2Small.svg 12w" sizes="12px"><img width="min(450px, 100vw)" height="10px" src="./li2Large.svg" /></picture></a></div>
   </div>
 </p>
 
