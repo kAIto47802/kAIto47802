@@ -1,3 +1,5 @@
+<head><link rel="preload" href="https://github-readme-stats-clone-xln.vercel.app/api/?username=kAIto47802&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=buefy&border_color=2d20ff&bg_color=88beff20&text_color=417e87" as="image"></head>
+
 <div>
   <a href="https://github.com/kAIto47802"><img width="100%" height="95px" src="./title.svg" /></a>
   <div align="right">Last update: 2024/02/05</div>
