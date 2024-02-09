@@ -1,4 +1,4 @@
-<head><link rel="preload" href="https://github-readme-stats-clone-xln.vercel.app/api/?username=kAIto47802&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=buefy&border_color=2d20ff&bg_color=88beff20&text_color=417e87" as="image"></head>
+<head><link rel="preload" href="https://github-readme-stats-clone-xln.vercel.app/api/?username=kAIto47802&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=buefy&border_color=2d20ff&bg_color=88beff20&text_color=417e87" as="image"><link rel="preload" href="https://github-readme-stats.vercel.app/api/wakatime?username=kAIto47802&layout=compact&theme=nightowl&border_color=fc9475&bg_color=ffc5a024&text_color=58969d&title_color=9e6bc0" as="image"><link rel="preload" href="https://github-readme-stats-clone-xln.vercel.app/api/top-langs/?username=kAIto47802&layout=compact&count_private=true&langs_count=10&theme=algolia&title_color=7079b8&text_color=58a8d0&border_color=f38cf7&bg_color=c5e0ff23" as="image"></head>
 
 <div>
   <a href="https://github.com/kAIto47802"><img width="100%" height="95px" src="./title.svg" /></a>
