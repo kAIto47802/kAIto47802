@@ -36,7 +36,7 @@
         <picture>
           <source media="(prefers-color-scheme: light) and (max-width:650px)" srcset="./li1-small-light.svg 450w" sizes="12px">
           <source media="(prefers-color-scheme: dark) and (max-width:650px)" srcset="./li1-small-dark.svg 450w" sizes="12px">
-          <source media="(prefers-color-scheme: light) and (max-width:650px)" srcset="./li1-small-light.svg 450w" sizes="12px">
+          <source media="(prefers-color-scheme: light)" srcset="./li1-large-light.svg 450w" sizes="12px">
           <img width="450px" height="100%" src="./li1-large-dark.svg">
         </picture>
       </a>
