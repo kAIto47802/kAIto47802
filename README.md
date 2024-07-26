@@ -1,32 +1,62 @@
-
 <div>
-  <a href="https://github.com/kAIto47802"><img width="100%" height="95px" src="./title.svg" /></a>
-  <div align="right">Last update: 2024/02/05</div>
+  <a href="https://github.com/kAIto47802"><img width="100%" height="95px" src="./title.svg"></a>
+  <div align="right">Last update: 2024/07/26</div>
 </div>
 
+<br>
+
 <p>
-  <div>
-    <a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./overviewSmall.svg 450w" sizes="12px"><img width="100%" height="39px" src="./overviewLarge.svg" /></picture></a>
-    <div align="left"><a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./li1Small.svg 450w" sizes="12px"><img width="450px" height="100%" src="./li1Large.svg" /></picture></a></div>
-    <div align="left"><a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./li2Small.svg 450w" sizes="12px"><img width="450px" height="100%" src="./li2Large.svg" /></picture></a></div>
+  <a href="https://github.com/kAIto47802">
+    <picture>
+      <source media="(max-width:650px)" srcset="./overview-small.svg 450w" sizes="12px">
+      <img width="100%" height="39px" src="./repo-large.svg">
+    </picture>
+  </a>
+  <div align="left">
+    <a href="https://github.com/sarulab-speech/UTMOSv2">
+      <img width="54px" height="1px" src="./blank.svg">
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sarulab-speech&repo=utmosv2&border_color=1044f0&bg_color=3782ff12&text_color=636c76&title_color=0969da" sizes="12px">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarulab-speech&repo=utmosv2&border_color=6d84a0&bg_color=185fd70f&text_color=636c76&title_color=0969da">
+      </picture>
+    </a>
   </div>
 </p>
 
 <p>
-  <div align="left"><a href="https://github.com/kAIto47802"><img width="54px" height="1px" src="./blank.svg" /></a><a href="https://github.com/kAIto47802"><img src="./ReadmeStats.svg" alt="kAIto47802's GitHub stats" loading="lazy" width="max(60%, 700px)" height="100%"></a></div>
+  <div>
+    <a href="https://github.com/kAIto47802">
+      <picture>
+        <source media="(max-width:650px)" srcset="./overview-small.svg 450w" sizes="12px">
+        <img width="100%" height="39px" src="./overview-large.svg">
+      </picture>
+    </a>
+    <div align="left">
+      <a href="https://github.com/kAIto47802">
+        <picture>
+          <source media="(prefers-color-scheme: light) and (max-width:650px)" srcset="./li1-small-light.svg 450w" sizes="12px">
+          <source media="(prefers-color-scheme: dark) and (max-width:650px)" srcset="./li1-small-dark.svg 450w" sizes="12px">
+          <source media="(prefers-color-scheme: light)" srcset="./li1-small-light.svg 450w" sizes="12px">
+          <img width="450px" height="100%" src="./li1-large-dark.svg">
+        </picture>
+      </a>
+    </div>
+    <!-- <div align="left"><a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./li2Small.svg 450w" sizes="12px"><img width="450px" height="100%" src="./li2Large.svg" /></picture></a></div> -->
+  </div>
+  <div>
+    <div align="left"><a href="https://github.com/kAIto47802"><img width="54px" height="1px" src="./blank.svg" /></a><a href="https://github.com/kAIto47802"><img src="./ReadmeStats.svg" alt="kAIto47802's GitHub stats" loading="lazy" width="max(60%, 700px)" height="100%"></a></div>
+  </div>
 </p>
 
 <p>
-  <div>
-    <a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./skillsSmall.svg 450w" sizes="12px"><img width="100%" height="39px" src="./skillsLarge.svg" /></picture></a>
-    <a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./skillContentSmall.svg 450w" sizes="12px"><img width="100%" height="610px" src="./skillContentLarge.svg" /></picture></a>
-    <div align="left">
-      <a height="0" href="https://github.com/kAIto47802"><img width="54px" height="1px" src="./blank.svg" /></a><a height="0" href="https://github.com/kAIto47802"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kAIto47802&layout=compact&theme=nightowl&border_color=fc9475&bg_color=ffc5a024&text_color=58969d&title_color=9e6bc0" /></a>
-    </div>
-    <div align="left"><font size="0.8">&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Since 2023/06/01)</font></div>
-    <div align="left">
-      <a href="https://github.com/kAIto47802"><img width="54px" height="10rem" src="./blank.svg" /></a><a href="https://github.com/kAIto47802"><img ailgn="left" src="https://github-readme-stats-clone-xln.vercel.app/api/top-langs/?username=kAIto47802&layout=compact&count_private=true&langs_count=10&theme=algolia&title_color=7079b8&text_color=58a8d0&border_color=f38cf7&bg_color=c5e0ff23" /></a>
-    </div>
+  <a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./skills-small.svg 450w" sizes="12px"><img width="100%" height="39px" src="./skills-large.svg" /></picture></a>
+  <a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./skillContentSmall.svg 450w" sizes="12px"><img width="100%" height="610px" src="./skillContentLarge.svg" /></picture></a>
+  <div align="left">
+    <a height="0" href="https://github.com/kAIto47802"><img width="54px" height="1px" src="./blank.svg" /></a><a height="0" href="https://github.com/kAIto47802"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kAIto47802&layout=compact&theme=nightowl&border_color=fc9475&bg_color=ffc5a024&text_color=58969d&title_color=9e6bc0" /></a>
+  </div>
+  <div align="left"><font size="0.8">&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Since 2023/06/01)</font></div>
+  <div align="left">
+    <a href="https://github.com/kAIto47802"><img width="54px" height="10rem" src="./blank.svg" /></a><a href="https://github.com/kAIto47802"><img ailgn="left" src="https://github-readme-stats-clone-xln.vercel.app/api/top-langs/?username=kAIto47802&layout=compact&count_private=true&langs_count=10&theme=algolia&title_color=7079b8&text_color=58a8d0&border_color=f38cf7&bg_color=c5e0ff23" /></a>
   </div>
 </p>
 

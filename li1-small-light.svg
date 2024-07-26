@@ -1,15 +1,15 @@
-<svg width="510" height="18" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="510" height="32" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
     <style>
-      .fadeLeft2 {
-        animation-name:fadeLeftAnime2;
+      .fadeLeft1 {
+        animation-name:fadeLeftAnime1;
         animation-duration:0.5s;
         animation-fill-mode:forwards;
-        animation-delay: 1.9s;
+        animation-delay: 1.6s;
         opacity:0;
       }
       
-      @keyframes fadeLeftAnime2 {
+      @keyframes fadeLeftAnime1 {
         from {
           opacity: 0;
           transform: translateX(-100px);
@@ -20,10 +20,10 @@
         }
       }
 
-      .textShow2 {
+      .textShow {
         fill: #2792ff;
         animation-name: textShowAnime;
-        animation-duration:3.1s;
+        animation-duration:2.7s;
         animation-delay: 0s;
       }
       @keyframes textShowAnime {
@@ -32,15 +32,15 @@
         100% { fill: #2792ff; }
       }
 
-      .textShowBox2 {
+      .textShowBox {
         transform: translate(-120%, 0);
-        animation-name: maskBoxAnime2;
+        animation-name: maskBoxAnime1;
         animation-duration: 1.2s;
         animation-fill-mode: forwards;
-        animation-delay: 2.6s;
+        animation-delay: 2.3s;
         animation-timing-function: cubic-bezier(0.8, 0, 0.170, 1);
       }
-      @keyframes maskBoxAnime2 {
+      @keyframes maskBoxAnime1 {
         0% { transform: translate(-120%, 0) }
         40%, 60% { transform: translate(0, 0) }
         100% { transform: translate(100%, 0) }
@@ -53,9 +53,12 @@
       <stop offset="100%" stop-color="#42d3ed" />
     </linearGradient>
   </defs>
-  <polygon class="fadeLeft2" points="2,2 14,8 2,14" fill="#f7955c" />
-  <text x="16" y="13" font-family="Noto Sans JP, Arial, sans-serif" font-size="16" class="textShow2">
-    Internship experience at 6 companies
+  <polygon class="fadeLeft1" points="2,2 14,8 2,14" fill="#f7955c" />
+  <text x="16" y="13" font-family="Noto Sans JP, Arial, sans-serif" font-size="16" class="textShow">
+    Fourth-year undergraduate student
   </text>
-  <rect x="14" y="0" width="272" height="16" fill="url(#gradientBox1)" class="textShowBox2" />
+  <text x="16" y="29" font-family="Noto Sans JP, Arial, sans-serif" font-size="16" class="textShow">
+    at the University of Tokyo 
+  </text>
+  <rect x="14" y="0" width="245" height="32" fill="url(#gradientBox1)" class="textShowBox" />
 </svg>
