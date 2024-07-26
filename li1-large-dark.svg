@@ -21,7 +21,7 @@
       }
 
       .textShow {
-        fill: #a0eeff;
+        fill: #90c9d6;
         animation-name: textShowAnime;
         animation-duration:2.7s;
         animation-delay: 0s;
@@ -29,7 +29,7 @@
       @keyframes textShowAnime {
         0% { fill: transparent; }
         99% { fill: transparent; }
-        100% { fill: #a0eeff; }
+        100% { fill: #90c9d6; }
       }
 
       .textShowBox {
