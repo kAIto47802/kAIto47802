@@ -1,7 +1,27 @@
 <div>
   <a href="https://github.com/kAIto47802"><img width="100%" height="95px" src="./title.svg"></a>
-  <div align="right">Last update: 2024/07/26</div>
+  <div align="right">Last update: 2025/04/28</div>
 </div>
+
+<br>
+
+<p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For more information, please visit my personal website: <a href="https://kaito47802.github.io">kaito47802.github.io</a>.
+</p>
+
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://scholar.google.com/citations?user=oJvSC5wAAAAJ">
+    <sub><img src="https://img.shields.io/badge/Google%20Scholar-71c0f5.svg?style=flat&logo=googlescholar"></sub>
+  </a>
+  <a href="https://kaito47802.github.io/cv.pdf">
+    <sub><img src="https://img.shields.io/badge/Download%20CV-5e7bcc.svg?style=flat&logo=readdotcv"></sub>
+  </a>
+  <a href="https://github.com/kAIto47802">
+    <sub><img src="./mailIcon.svg" alt="mail" width="18px" height="18px"></sub>
+  </a>
+  <span>k.ai.to47802 [at] gmail.com</span>
+</p>
 
 <br>
 
@@ -56,6 +76,6 @@
   </div>
   <div align="left"><font size="0.8">&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Since 2023/06/01)</font></div>
   <div align="left">
-    <a href="https://github.com/kAIto47802"><img width="54px" height="10rem" src="./blank.svg" /></a><a href="https://github.com/kAIto47802"><img ailgn="left" src="https://github-readme-stats-clone-xln.vercel.app/api/top-langs/?username=kAIto47802&layout=compact&count_private=true&langs_count=10&theme=algolia&title_color=7079b8&text_color=58a8d0&border_color=f38cf7&bg_color=c5e0ff23" /></a>
+    <a href="https://github.com/kAIto47802"><img width="54px" height="10rem" src="./blank.svg" /></a><a href="https://github.com/kAIto47802"><img ailgn="left" src="https://github-readme-stats-clone-xln.vercel.app/api/top-langs/?username=kAIto47802&layout=compact&count_private=true&langs_count=10&theme=algolia&title_color=7079b8&text_color=58a8d0&border_color=f38cf7&bg_color=c5e0ff23&hide=jupyter%20notebook" /></a>
   </div>
 </p>
