@@ -63,8 +63,13 @@
     </p>
     <!-- <div align="left"><a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./li2Small.svg 450w" sizes="12px"><img width="450px" height="100%" src="./li2Large.svg" /></picture></a></div> -->
   </div>
-  <div>
-    <div align="left"><a href="https://github.com/kAIto47802"><img width="54px" height="1px" src="./blank.svg" /></a><a href="https://github.com/kAIto47802"><img src="./ReadmeStats.svg" alt="kAIto47802's GitHub stats" loading="lazy" width="max(60%, 700px)" height="100%"></a></div>
+  <div align="left">
+    <a href="https://github.com/kAIto47802">
+      <img width="54px" height="1px" src="./blank.svg">
+      <picture>
+        <img src="./ReadmeStats.svg" alt="kAIto47802's GitHub stats" loading="lazy" width="max(80%, 800px)" height="100%">
+      </picture>
+    </a>
   </div>
 </p>
 
