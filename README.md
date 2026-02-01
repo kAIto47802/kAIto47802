@@ -1,6 +1,6 @@
 <div>
   <a href="https://github.com/kAIto47802"><img width="100%" height="95px" src="./title.svg"></a>
-  <div align="right">Last update: 2025/04/28</div>
+  <div align="right">Last update: 2026/02/01</div>
 </div>
 
 <br>
