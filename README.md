@@ -21,7 +21,24 @@
     <sub><img src="./mailIcon.svg" alt="mail" width="18px" height="18px"></sub>
   </a>
   <span>k.ai.to47802 [at] gmail.com</span>
+
+  ```rust
+  let first = "kaito".replace("ai", "AI");
+  let last = i32::from_str_radix("baba", 16).unwrap();
+  assert_eq!("kAIto47802", format!("{first}{last}"));
+  ```
+  ```python
+  first = "kaito".replace("ai", "AI")
+  last = int("baba", 16)
+  assert "kAIto47802" == f"{first}{last}"
+  ```
+  ```typescript
+  const first = "kaito".replace("ai", "AI");
+  const last = parseInt("baba", 16);
+  console.assert("kAIto47802" === `${first}${last}`);
+  ```
 </p>
+
 
 <br>
 
@@ -38,6 +55,16 @@
       <picture>
         <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sarulab-speech&repo=utmosv2&border_color=1044f0&bg_color=3782ff12&text_color=636c76&title_color=0969da" sizes="12px">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarulab-speech&repo=utmosv2&border_color=6d84a0&bg_color=185fd70f&text_color=636c76&title_color=0969da">
+      </picture>
+    </a>
+  </div>
+
+  <div align="left">
+    <a href="https://github.com/kAIto47802/Prover-Agent">
+      <img width="54px" height="1px" src="./blank.svg">
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kAIto47802&repo=Prover-Agent&border_color=1044f0&bg_color=3782ff12&text_color=636c76&title_color=0969da" sizes="12px">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kAIto47802&repo=Prover-Agent&border_color=6d84a0&bg_color=185fd70f&text_color=636c76&title_color=0969da">
       </picture>
     </a>
   </div>
