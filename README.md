@@ -64,13 +64,15 @@
   <div align="left">
     <a href="https://github.com/kAIto47802/Prover-Agent">
       <picture>
+        <source media="(max-width:650px)" srcset="assets/indent-small.svg 5w" sizes="5px">
+        <img width="54px" height="1px" src="assets/indent-large.svg">
+      </picture>
+      <picture>
         <source media="(prefers-color-scheme: light)" srcset="generated/prover-agent-light.svg" sizes="12px">
         <img src="generated/prover-agent-dark.svg">
       </picture>
     </a>
   </div>
-</p>
-<p>
   <div align="left">
     <a href="https://github.com/kAIto47802/notist">
       <picture>
