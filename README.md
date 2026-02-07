@@ -111,7 +111,7 @@
         <img width="54px" height="1px" src="assets/indent-large.svg">
       </picture>
       <picture>
-        <img src="./ReadmeStats.svg" alt="kAIto47802's GitHub stats" loading="lazy" width="max(80%, 800px)" height="100%">
+        <img src="generated/readme-stats.svg" alt="kAIto47802's GitHub stats" loading="lazy" width="max(80%, 800px)" height="100%">
       </picture>
     </a>
   </div>
