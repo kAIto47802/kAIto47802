@@ -34,10 +34,7 @@ jobs:
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
-          options: >-
-            username=${{ matrix.repo.owner }}&repo=${{ matrix.repo.name }}
-            &border_color=${{ matrix.theme.border }}&bg_color=${{ matrix.theme.bg }}
-            &text_color=${{ matrix.theme.text }}&title_color=${{ matrix.theme.title }}
+          options: username=${{ matrix.repo.owner }}&repo=${{ matrix.repo.name }}&border_color=${{ matrix.theme.border }}&bg_color=${{ matrix.theme.bg }}&text_color=${{ matrix.theme.text }}&title_color=${{ matrix.theme.title }}
           path: out/${{ matrix.repo.out }}-${{ matrix.theme.mode }}.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
