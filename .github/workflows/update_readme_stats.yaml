@@ -46,7 +46,7 @@ jobs:
           path: generated/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Generate pin card (${{ matrix.repo.owner }}/${{ matrix.repo.name }::${{ matrix.theme.mode }})}
+      - name: Generate pin card (${{ matrix.repo.owner }}/${{ matrix.repo.name }}::${{ matrix.theme.mode }})
         uses: readme-tools/github-readme-stats-action@v1
         with:
           card: pin
