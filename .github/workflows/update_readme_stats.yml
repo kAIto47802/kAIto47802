@@ -1,28 +1,80 @@
 name: Update Readme Stats
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: '0 0 * * *'
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 jobs:
   update-readme-stats:
     runs-on: ubuntu-latest
+
+    strategy:
+    matrix:
+      repo:
+        - { owner: sarulab-speech, name: utmosv2, out: utmosv2 }
+        - { owner: kAIto47802, name: Prover-Agent, out: prover-agent }
+        - { owner: kAIto47802, name: notist, out: notist }
+      theme:
+        - {
+            mode: light,
+            border: 1044f0,
+            bg: 3782ff12,
+            text: 636c76,
+            title: 0969da,
+          }
+        - {
+            mode: dark,
+            border: 6d84a0,
+            bg: 185fd70f,
+            text: 636c76,
+            title: 0969da,
+          }
+
     steps:
-      - uses: actions/checkout@v4
-      - name: Update Readme Stats
+      - uses: actions/checkout@v6
+
+      - name: Update readme stats
         run: curl "https://github-readme-stats-clone-xln.vercel.app/api/?username=kAIto47802&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=buefy&border_color=2d20ff&bg_color=88beff20&text_color=417e87" > ReadmeStats.svg
-      # - name: Update Wakatime Stats
-      #   run: curl "https://github-readme-stats.vercel.app/api/wakatime?username=kAIto47802&layout=compact&theme=nightowl&border_color=fc9475&bg_color=ffc5a024&text_color=58969d&title_color=9e6bc0" > WakaTimeStats.svg
-      # - name: Update Most Used Languages
-      #   run: curl "https://github-readme-stats-clone-xln.vercel.app/api/top-langs/?username=kAIto47802&layout=compact&count_private=true&langs_count=10&theme=algolia&title_color=7079b8&text_color=58a8d0&border_color=f38cf7&bg_color=c5e0ff23" > MostUsedLangs.svg
+
+      - name: Generate stats card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: wakatime
+          options: username=kAIto47802&layout=compact&theme=nightowl&border_color=fc9475&bg_color=ffc5a024&text_color=58969d&title_color=9e6bc0
+          path: generated/wakatime.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate top languages card
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: top-langs
+          options: >-
+            username=kAIto47802&layout=compact&count_private=true&langs_count=10&theme=algolia
+            &title_color=7079b8&text_color=58a8d0&border_color=f38cf7&bg_color=c5e0ff23&hide=jupyter%20notebook
+          path: generated/top-langs.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate pin card (${{ matrix.repo.owner }}/${{ matrix.repo.name }::${{ matrix.theme.mode }})}
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: >-
+            username=${{ matrix.repo.owner }}&repo=${{ matrix.repo.name }}
+            &border_color=${{ matrix.theme.border }}&bg_color=${{ matrix.theme.bg }}
+            &text_color=${{ matrix.theme.text }}&title_color=${{ matrix.theme.title }}
+          path: generated/${{ matrix.repo.out }}-${{ matrix.theme.mode }}.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
       - name: Commit and push changes
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add .
-          git commit -m "Update readme stats at $(date '+%Y-%m-%d %H:%M:%S')"
+          git commit -m "Update readme cards at $(date '+%Y-%m-%d %H:%M:%S')"
           git push
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-

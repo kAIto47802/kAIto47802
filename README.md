@@ -1,12 +1,12 @@
 <div>
-  <a href="https://github.com/kAIto47802"><img width="100%" height="95px" src="./title.svg"></a>
-  <div align="right">Last update: 2026/02/01</div>
+  <a href="https://github.com/kAIto47802"><img width="100%" height="95px" src="assets/title.svg"></a>
+  <div align="right">Last update: 2026/02/07</div>
 </div>
 
 <br>
 
 <p>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For more information, please visit my personal website: <a href="https://kaito47802.github.io">kaito47802.github.io</a>.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For more information, please visit my personal website: <a href="https://kaito47802.github.io">https://kaito47802.github.io</a>.
 </p>
 
 <p align="left">
@@ -18,7 +18,7 @@
     <sub><img src="https://img.shields.io/badge/Download%20CV-5e7bcc.svg?style=flat&logo=readdotcv"></sub>
   </a>
   <a href="https://github.com/kAIto47802">
-    <sub><img src="./mailIcon.svg" alt="mail" width="18px" height="18px"></sub>
+    <sub><img src="assets/mailIcon.svg" alt="mail" width="18px" height="18px"></sub>
   </a>
   <span>k.ai.to47802 [at] gmail.com</span>
 
@@ -45,26 +45,41 @@
 <p>
   <a href="https://github.com/kAIto47802">
     <picture>
-      <source media="(max-width:650px)" srcset="./repo-small.svg 450w" sizes="12px">
-      <img width="100%" height="39px" src="./repo-large.svg">
+      <source media="(max-width:650px)" srcset="assets/repo-small.svg 450w" sizes="12px">
+      <img width="100%" height="39px" src="assets/repo-large.svg">
     </picture>
   </a>
   <div align="left">
     <a href="https://github.com/sarulab-speech/UTMOSv2">
-      <img width="54px" height="1px" src="./blank.svg">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=sarulab-speech&repo=utmosv2&border_color=1044f0&bg_color=3782ff12&text_color=636c76&title_color=0969da" sizes="12px">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=sarulab-speech&repo=utmosv2&border_color=6d84a0&bg_color=185fd70f&text_color=636c76&title_color=0969da">
+        <source media="(max-width:650px)" srcset="assets/indent-small.svg 5w" sizes="5px">
+        <img width="54px" height="1px" src="assets/indent-large.svg">
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="generated/utmosv2-light.svg" sizes="12px">
+        <img src="generated/utmosv2-dark.svg">
       </picture>
     </a>
   </div>
-
   <div align="left">
     <a href="https://github.com/kAIto47802/Prover-Agent">
-      <img width="54px" height="1px" src="./blank.svg">
       <picture>
-        <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/pin/?username=kAIto47802&repo=Prover-Agent&border_color=1044f0&bg_color=3782ff12&text_color=636c76&title_color=0969da" sizes="12px">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=kAIto47802&repo=Prover-Agent&border_color=6d84a0&bg_color=185fd70f&text_color=636c76&title_color=0969da">
+        <source media="(prefers-color-scheme: light)" srcset="generated/prover-agent-light.svg" sizes="12px">
+        <img src="generated/prover-agent-dark.svg">
+      </picture>
+    </a>
+  </div>
+</p>
+<p>
+  <div align="left">
+    <a href="https://github.com/kAIto47802/notist">
+      <picture>
+        <source media="(max-width:650px)" srcset="assets/indent-small.svg 5w" sizes="5px">
+        <img width="54px" height="1px" src="assets/indent-large.svg">
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="generated/notist-light.svg" sizes="12px">
+        <img src="generated/notist-dark.svg">
       </picture>
     </a>
   </div>
@@ -74,25 +89,27 @@
   <div>
     <a href="https://github.com/kAIto47802">
       <picture>
-        <source media="(max-width:650px)" srcset="./overview-small.svg 450w" sizes="12px">
-        <img width="100%" height="39px" src="./overview-large.svg">
+        <source media="(max-width:650px)" srcset="assets/overview-small.svg 450w" sizes="12px">
+        <img width="100%" height="39px" src="assets/overview-large.svg">
       </picture>
     </a>
     <p align="left">
       <a href="https://github.com/kAIto47802">
         <picture>
-          <source media="(prefers-color-scheme: light) and (max-width:650px)" srcset="./li1-small-light.svg 450w" sizes="12px">
-          <source media="(prefers-color-scheme: dark) and (max-width:650px)" srcset="./li1-small-dark.svg 450w" sizes="12px">
-          <source media="(prefers-color-scheme: light)" srcset="./li1-large-light.svg 450w" sizes="12px">
-          <img width="450px" height="100%" src="./li1-large-dark.svg">
+          <source media="(prefers-color-scheme: light) and (max-width:650px)" srcset="assets/li1-small-light.svg 450w" sizes="12px">
+          <source media="(prefers-color-scheme: dark) and (max-width:650px)" srcset="assets/li1-small-dark.svg 450w" sizes="12px">
+          <source media="(prefers-color-scheme: light)" srcset="assets/li1-large-light.svg 450w" sizes="12px">
+          <img width="450px" height="100%" src="assets/li1-large-dark.svg">
         </picture>
       </a>
     </p>
-    <!-- <div align="left"><a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./li2Small.svg 450w" sizes="12px"><img width="450px" height="100%" src="./li2Large.svg" /></picture></a></div> -->
   </div>
   <div align="left">
     <a href="https://github.com/kAIto47802">
-      <img width="54px" height="1px" src="./blank.svg">
+      <picture>
+        <source media="(max-width:650px)" srcset="assets/indent-small.svg 5w" sizes="5px">
+        <img width="54px" height="1px" src="assets/indent-large.svg">
+      </picture>
       <picture>
         <img src="./ReadmeStats.svg" alt="kAIto47802's GitHub stats" loading="lazy" width="max(80%, 800px)" height="100%">
       </picture>
@@ -101,13 +118,36 @@
 </p>
 
 <p>
-  <a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./skills-small.svg 450w" sizes="12px"><img width="100%" height="39px" src="./skills-large.svg" /></picture></a>
-  <a href="https://github.com/kAIto47802"><picture><source media="(max-width:650px)" srcset="./skill-content-small.svg 450w" sizes="12px"><img width="100%" height="610px" src="./skill-content-large.svg" /></picture></a>
+  <a href="https://github.com/kAIto47802">
+    <picture>
+      <source media="(max-width:650px)" srcset="assets/skills-small.svg 450w" sizes="12px">
+      <img width="100%" height="39px" src="assets/skills-large.svg" />
+    </picture>
+  </a>
+  <a href="https://github.com/kAIto47802">
+    <picture>
+      <source media="(max-width:650px)" srcset="assets/skill-content-small.svg 550w" sizes="550px">
+      <img width=100% height=610px src="assets/skill-content-large.svg" />
+    </picture>
+  </a>
   <div align="left">
-    <a height="0" href="https://github.com/kAIto47802"><img width="54px" height="1px" src="./blank.svg" /></a><a height="0" href="https://github.com/kAIto47802"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=kAIto47802&layout=compact&theme=nightowl&border_color=fc9475&bg_color=ffc5a024&text_color=58969d&title_color=9e6bc0" /></a>
+    <a height="0" href="https://github.com/kAIto47802"><img width="54px" height="1px" src="assets/indent.svg" /></a><a height="0" href="https://github.com/kAIto47802">
+      <img src="generated/wakatime.svg" />
+    </a>
+    (Since 2023/06/01)
   </div>
-  <div align="left"><font size="0.8">&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Since 2023/06/01)</font></div>
+  <!-- <div align="left">
+    <font size="0.8">&nbsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;(Since 2023/06/01)</font>
+  </div> -->
   <div align="left">
-    <a href="https://github.com/kAIto47802"><img width="54px" height="10rem" src="./blank.svg" /></a><a href="https://github.com/kAIto47802"><img ailgn="left" src="https://github-readme-stats-clone-xln.vercel.app/api/top-langs/?username=kAIto47802&layout=compact&count_private=true&langs_count=10&theme=algolia&title_color=7079b8&text_color=58a8d0&border_color=f38cf7&bg_color=c5e0ff23&hide=jupyter%20notebook" /></a>
+    <a href="https://github.com/kAIto47802">
+      <picture>
+        <source media="(max-width:650px)" srcset="assets/indent-small.svg 5w" sizes="5px">
+        <img width="54px" height="1px" src="assets/indent-large.svg">
+      </picture>
+    </a>
+    <a href="https://github.com/kAIto47802">
+      <img src="generated/top-lang.svg" />
+    </a>
   </div>
 </p>
