@@ -9,7 +9,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  update-readme-stats:
+  update-pin-cards:
     runs-on: ubuntu-latest
 
     strategy:
@@ -21,6 +21,33 @@ jobs:
         theme:
           - { mode: light, border: 1044f0, bg: 3782ff12, text: 636c76, title: 0969da }
           - { mode: dark, border: 6d84a0, bg: 185fd70f, text: 636c76, title: 0969da }
+
+    steps:
+      - uses: actions/checkout@v6
+
+      - name: Generate pin card (${{ matrix.repo.owner }}/${{ matrix.repo.name }}::${{ matrix.theme.mode }})
+        uses: readme-tools/github-readme-stats-action@v1
+        with:
+          card: pin
+          options: >-
+            username=${{ matrix.repo.owner }}&repo=${{ matrix.repo.name }}
+            &border_color=${{ matrix.theme.border }}&bg_color=${{ matrix.theme.bg }}
+            &text_color=${{ matrix.theme.text }}&title_color=${{ matrix.theme.title }}
+          path: generated/${{ matrix.repo.out }}-${{ matrix.theme.mode }}.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git commit -m "Update readme cards at $(date '+%Y-%m-%d %H:%M:%S')"
+          git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+  update-readme-stats:
+    runs-on: ubuntu-latest
 
     steps:
       - uses: actions/checkout@v6
@@ -44,17 +71,6 @@ jobs:
             username=kAIto47802&layout=compact&count_private=true&langs_count=10&theme=algolia
             &title_color=7079b8&text_color=58a8d0&border_color=f38cf7&bg_color=c5e0ff23&hide=jupyter%20notebook
           path: generated/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Generate pin card (${{ matrix.repo.owner }}/${{ matrix.repo.name }}::${{ matrix.theme.mode }})
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: pin
-          options: >-
-            username=${{ matrix.repo.owner }}&repo=${{ matrix.repo.name }}
-            &border_color=${{ matrix.theme.border }}&bg_color=${{ matrix.theme.bg }}
-            &text_color=${{ matrix.theme.text }}&title_color=${{ matrix.theme.title }}
-          path: generated/${{ matrix.repo.out }}-${{ matrix.theme.mode }}.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Commit and push changes
