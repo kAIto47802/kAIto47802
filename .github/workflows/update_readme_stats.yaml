@@ -54,13 +54,6 @@ jobs:
     steps:
       - uses: actions/checkout@v6
 
-      - name: Update readme stats
-        run: |
-          set -euo pipefail
-          mkdir -p out
-          curl -fsSL "https://github-readme-stats-clone-xln.vercel.app/api/?username=kAIto47802&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=buefy&border_color=2d20ff&bg_color=88beff20&text_color=417e87" \
-            > out/readme-stats.svg
-
       - name: Generate stats card
         uses: readme-tools/github-readme-stats-action@v1
         with:
@@ -69,15 +62,20 @@ jobs:
           path: out/wakatime.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
+      # Use self-hosted endpoints to capture private repos
+      - name: Update readme stats
+        run: |
+          set -euo pipefail
+          mkdir -p out
+          curl -fsSL "https://github-readme-stats-clone-xln.vercel.app/api/?username=kAIto47802&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&theme=buefy&border_color=2d20ff&bg_color=88beff20&text_color=417e87" \
+            > out/readme-stats.svg
+
       - name: Generate top languages card
-        uses: readme-tools/github-readme-stats-action@v1
-        with:
-          card: top-langs
-          options: >-
-            username=kAIto47802&layout=compact&count_private=true&langs_count=10&theme=algolia
-            &title_color=7079b8&text_color=58a8d0&border_color=f38cf7&bg_color=c5e0ff23&hide=jupyter%20notebook
-          path: out/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          set -euo pipefail
+          mkdir -p out
+          curl -fsSL "https://github-readme-stats-clone-xln.vercel.app/api/top-langs/?username=kAIto47802&layout=compact&count_private=true&langs_count=10&theme=algolia&title_color=7079b8&text_color=58a8d0&border_color=f38cf7&bg_color=c5e0ff23&hide=jupyter%20notebook" \
+            > out/top-lang.svg
 
       - name: Upload artifact
         uses: actions/upload-artifact@v4
