@@ -48,7 +48,7 @@ jobs:
           path: out/${{ matrix.repo.out }}-${{ matrix.theme.mode }}.svg
           if-no-files-found: error
 
-  update-readme-stats:
+  generate-other-cards:
     runs-on: ubuntu-latest
 
     steps:
