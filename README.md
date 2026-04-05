@@ -11,8 +11,11 @@
 
 <p align="left">
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/kAIto47802">
+    <sub><img src="https://img.shields.io/badge/dynamic/json.svg?label=GitHub&logo=github&style=flat&url=https://kaito47802.github.io/data/github-stars.json&query=$.totalStars&prefix=Total%20Stars%20&labelColor=181717"></sub>
+  </a>
   <a href="https://scholar.google.com/citations?user=oJvSC5wAAAAJ">
-    <sub><img src="https://img.shields.io/badge/Google%20Scholar-71c0f5.svg?style=flat&logo=googlescholar"></sub>
+    <sub><img src="https://img.shields.io/badge/dynamic/json.svg?label=Google%20Scholar&logo=googlescholar&style=flat&url=https://kaito47802.github.io/data/scholar.json&query=$.profile.citations&prefix=Citations%20&labelColor=71c0f5&color=9e69cf"></sub>
   </a>
   <a href="https://kaito47802.github.io/cv.pdf">
     <sub><img src="https://img.shields.io/badge/Download%20CV-5e7bcc.svg?style=flat&logo=readdotcv"></sub>
