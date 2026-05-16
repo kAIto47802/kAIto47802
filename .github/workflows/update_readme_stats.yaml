@@ -22,6 +22,7 @@ jobs:
         repo:
           - { owner: sarulab-speech, name: utmosv2, out: utmosv2 }
           - { owner: kAIto47802, name: Prover-Agent, out: prover-agent }
+          - { owner: kAIto47802, name: condPED-ANOVA, out: cond-ped-anova }
           - { owner: kAIto47802, name: notist, out: notist }
         theme:
           - { mode: light, border: 1044f0, bg: 3782ff12, text: 636c76, title: 0969da }

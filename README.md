@@ -77,6 +77,18 @@
     </a>
   </div>
   <div align="left">
+    <a href="https://github.com/kAIto47802/condPED-ANOVA">
+      <picture>
+        <source media="(max-width:650px)" srcset="assets/indent-small.svg 5w" sizes="5px">
+        <img width="54px" height="1px" src="assets/indent-large.svg">
+      </picture>
+      <picture>
+        <source media="(prefers-color-scheme: light)" srcset="generated/cond-ped-anova-light.svg" sizes="12px">
+        <img src="generated/cond-ped-anova-dark.svg">
+      </picture>
+    </a>
+  </div>
+  <div align="left">
     <a href="https://github.com/kAIto47802/notist">
       <picture>
         <source media="(max-width:650px)" srcset="assets/indent-small.svg 5w" sizes="5px">
