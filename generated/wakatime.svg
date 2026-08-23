@@ -682,7 +682,7 @@
     <g transform="translate(25, 50)">
       <circle cx="5" cy="6" r="5" fill="#3D6117" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        TeX - 535 hrs 37 mins
+        TeX - 535 hrs 41 mins
       </text>
     </g>
   
@@ -703,7 +703,7 @@
     <g transform="translate(230, 75)">
       <circle cx="5" cy="6" r="5" fill="#083fa1" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Markdown - 153 hrs 47 mins
+        Markdown - 153 hrs 48 mins
       </text>
     </g>
   
