@@ -14,6 +14,9 @@
   <a href="https://github.com/kAIto47802">
     <sub><img src="https://img.shields.io/badge/dynamic/json.svg?label=GitHub&logo=github&style=flat&url=https://kaito47802.github.io/data/github-stars.json&query=$.totalStars&prefix=Total%20Stars%20&labelColor=181717"></sub>
   </a>
+  <a href="https://www.linkedin.com/in/kaito47802/">
+    <sub><img src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&amp;logo=data:image%2Fsvg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0iI2ZmZiIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1VjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNhMi4wNjMgMi4wNjMgMCAxIDEgMC00LjEyNiAyLjA2MyAyLjA2MyAwIDAgMSAwIDQuMTI2ek03LjExOSAyMC40NTJIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4%3D" alt="LinkedIn"></sub>
+  </a>
   <a href="https://scholar.google.com/citations?user=oJvSC5wAAAAJ">
     <sub><img src="https://img.shields.io/badge/dynamic/json.svg?label=Google%20Scholar&logo=googlescholar&style=flat&url=https://kaito47802.github.io/data/scholar.json&query=$.profile.citations&prefix=Citations%20&labelColor=71c0f5&color=9e69cf"></sub>
   </a>
